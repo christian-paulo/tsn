@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var Title: UILabel!
+//    @IBOutlet weak var Title: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
